@@ -279,7 +279,7 @@ a{color: white; padding-left: 15px} a:hover{text-decoration: none; color: white}
 a.mathematics{color: white} a.mathematics:hover{color:grey; transition: color .2s}
 a.Gnutrino{color: #aaa;}
 a.Gnutrino:hover{cursor:pointer; color: grey; transition: color .2s}
-a.Quasar{letter-spacing: -1px; font-weight: 600}
+a.Quasar{font-weight: 600}
 a.Quasar:hover{cursor:pointer; color: #E0E7EB; transition: color .2s}
 
 
